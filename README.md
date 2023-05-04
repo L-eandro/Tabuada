@@ -1,2 +1,2 @@
 # Tabuada
- Exercício Do Curso Em Video Com Gustavo Guanabara.
+ Um Exercício Simples Usando JavaScript,CSS e HTML.
